@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Currencies/out/
+/Problems/Currencies/out/production/classes/
+/Problems/Days of week/out/
+/Problems/Days of week/out/production/classes/
+/Problems/Hidden enumeration/out/
+/Problems/Hidden enumeration/out/production/classes/
+/Problems/Preparing full name/out/
+/Problems/Preparing full name/out/production/classes/
